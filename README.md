@@ -1,2 +1,2 @@
 # flibs
-Some helper to make developing Android faster
+Beberapa helper untuk membuat pengembangan Android Apps lebih cepat
