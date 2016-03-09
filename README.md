@@ -19,7 +19,7 @@ dependencies {
 
 ### Cek koneksi internet
 ```java
-if (FUtils.isNetworkConnected(this))
+if (!FUtils.isNetworkConnected(this))
     Toast.makeText(this, "You are now offline!", Toast.LENGTH_SHORT).show();
 ```
 
