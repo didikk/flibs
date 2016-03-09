@@ -23,6 +23,11 @@ if (!FUtils.isNetworkConnected(this))
     Toast.makeText(this, "You are now offline!", Toast.LENGTH_SHORT).show();
 ```
 
+Jangan lupa tambahkan permission network state
+```xml
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+```
+
 ### Date Helper
 Beberapa method yang bisa digunakan untuk membantu mengolah tanggal dan waktu
 ```java
