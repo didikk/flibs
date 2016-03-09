@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FLibs</string>
+    <string name="show_notif">SHOW NOTIFICATION</string>
+    <string name="share">SHARE</string>
+</resources>
